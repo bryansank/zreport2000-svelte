@@ -26,12 +26,11 @@ $ npm run build
 
 ```
 
-## authors ✒️
+## Authors ✒️
 
 _Mencionando a todos los que colaboraron he aportaron algo a este proyecto_
 
-* **Alejandro Garcia** - *Trabajo Inicial* - [alejandro-garcia](https://github.com/alejandro-garcia)
-* **Bryan Key** - *Upgrade* - [dev_bryansank](https://github.com/bryansank)
+* **Bryan Key** - *Trabajo Inicial* - [dev_bryansank](https://github.com/bryansank)
 * **Bryan Key** - *Documentación* - [dev_bryansank](https://github.com/bryansank) 
 
 ## Licence 📄
