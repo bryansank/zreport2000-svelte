@@ -1,0 +1,9 @@
+<link rel='stylesheet' href='../siteassets/styles/bundle.css'>
+<link rel='stylesheet' href='../siteassets/styles/global.css'>
+
+<script src='../siteassets/scripts/jquery.min.js'></script>
+<script src='../siteassets/scripts/kendo.all.min.js'></script>
+<script src='../siteassets/scripts/rxjs.umd.min.js'></script>
+
+<script defer src='../siteassets/scripts/bundle.js'></script>
+<div id="app"></div>
